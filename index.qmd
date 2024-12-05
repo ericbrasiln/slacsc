@@ -56,13 +56,13 @@ format:
 
 ---
 
-## 2. O que pesquiso quando pesquiso no HDB? {.center}
+## 2. O que pesquiso quando pesquiso na HDB? {.center}
 
 ![](imgs/hdb1.png)
 
 ---
 
-## 2. O que pesquiso quando pesquiso no HDB? {.center}
+## 2. O que pesquiso quando pesquiso na HDB? {.center}
 
 ![](imgs/hdb2.png)
 
