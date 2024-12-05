@@ -1,0 +1,192 @@
+---
+title: "O que pesquiso quando pesquiso na Hemeroteca Digital Brasileira?"
+author: Eric Brasil
+institute: "Instituto de Humanidades e Letras (UNILAB)"
+date: "05/12/2024"
+lang: pt-br
+format:
+  revealjs: 
+    theme: white
+    slide-number: true
+#    incremental: true 
+    chalkboard: 
+      buttons: false
+    preview-links: auto
+    #logo: "imgs/logo.png"
+    #css: styles.css
+    footer: "<a href=https://ericbrasil.com.br/>Eric Brasil</a> | <a href=https://ericbrasil.com.br/contact/>Entre em contato</a>"
+---
+## Acesse a apresentação a partir do qrcode: {.center}
+
+![[https://ericbrasil.com.br/slacsc](https://ericbrasil.com.br/slascs)](imgs/qrcode.png)
+
+---
+
+## 1. Desconhecimento técnico é um problema metodológico. {.center}
+
+
+![](https://i.giphy.com/media/Xch9I90tRezyicQgma/giphy.webp)
+
+---
+
+## 1.1. Rigor metodológico {.center}
+
+>"Os métodos de pesquisa digital criam demandas novas e às vezes mais rigorosas de precisão, pensamento metodológico, auto-organização e colaboração do que a pesquisa histórica tradicional" ([FRIDLUND; OIVA; PAJU, 2020, pos. 543, Tradução minha](https://hup.fi/site/books/e/10.33134/HUP-5/)).
+
+---
+
+## 1.2. Hermenêutica da Prática {.center}
+
+
+>uma teoria das práticas que nos permite refletir criticamente sobre os desafios teóricos e artesanais do nosso trabalho digital e conceber soluções práticas para enfrentá-los. ([Lucchesi 2020, cap. 3, Tradução minha](https://pubmemo.uni.lu/projects/shaping-a-digital-memory-platform-on-migration-narratives)) 
+
+---
+
+## 1.3. Ferramentas e métodos digitais condicionam nossas perguntas às fontes? {.center}
+
+- Cada ferramenta ou método digital reúne um conjunto de decisões políticas que comumente escapam ao pesquisador.
+- O *black box* metodológico coloca em risco a própria possibilidade de avalisar, reproduzir e criticar os resultados obtidos.
+- Ou seja, impactam epistemologicamente nossas pesquisas.
+
+---
+
+## 1.4. E a Inteligência Artificial nesse processo? {.center}
+
+![](https://i.giphy.com/CdY6WueirK8Te.webp)
+
+---
+
+## 2. O que pesquiso quando pesquiso no HDB? {.center}
+
+![](imgs/hdb1.png)
+
+---
+
+## 2. O que pesquiso quando pesquiso no HDB? {.center}
+
+![](imgs/hdb2.png)
+
+## 2.1. Como compreender os dados da HDB? {.center}
+
+- É possível através da interface?
+- As escolhas técnicas da interface afetam a compreensão dos dados?
+
+---
+
+## 2.2 Acessando os dados {.center}
+
+- API? 
+- Web scraping ou coleta manual?
+- Dados abertos?
+
+---
+
+## 2.3 Pesquisa de pós-doutorado {.center}
+
+- Desenvolvimento de um *framework* para pesquisas que utilizam periódicos em língua portuguesa digitalizados
+- Casos de estudo: HDB e coleção de periódicos da Biblioteca Nacional Digital de Portugal
+- Resultado: [HEMDIG(pt)](https://ericbrasil.com.br/hemdig-framework/)
+
+---
+
+## 2.3 Pesquisa de pós-doutorado {.center}
+
+![](imgs/hemdig.png)
+
+---
+
+## 2.4 Uma visão geral dos dados: o arquivo XML (MARCXML) {.center}
+
+- Título do periódico
+- Subtítulo do periódico
+- Local de publicação
+- Editora
+- Período de publicação
+- Periodicidade da publicação
+- Idioma da publicação
+
+---
+
+## {.center}
+
+| Coluna         |  Quantidade  |
+|--------------- | ------------ |
+| Título         | 7685         |
+| Subtítulo      | 3666         |
+| Local          | 7608         |
+| Período        | 7265         |
+| Editora        | 5675         |
+| Peridodicidade | 5901         |
+| Idioma         | 6614         |
+
+---
+
+## {.center}
+
+![Recorte do arquivo XML](imgs/xml_hdb.png)
+
+---
+
+## Escopo cronológico e temporal {.center}
+
+- 673 locais únicos
+- 7685 títulos
+- Publicações entre 1521 e 2022
+
+---
+
+### Viés cronológico? {.center}
+
+![Gráfico de dispersão com datas de início](imgs/plot2.png)
+
+---
+
+### Viés espacial? {.center}
+
+![Gráfico de barras com cidades mais frequentes](imgs/plot1.png)
+
+--- 
+
+## 3. E agora? {.center}
+
+- Para onde vai nossa profissão?
+
+---
+
+## 3.1. A IA generativa chegou! {.center}
+
+![](https://i.giphy.com/fn2sFqmwowbQY.webp)
+
+---
+
+## 3.2. Alguns caminhos {.center}
+
+- Interdisciplinaridade
+- Colaboração
+- Transparência e Ciência Aberta
+- Dados abertos
+- Formação
+- Financiamento e políticas públicas
+
+---
+
+## Contatos pessoais {.center}
+
+![](imgs/contato.png)
+
+- Email: [profericbrasil@unilab.edu.br](mailto:profericbrasil@unilab.edu.br)
+- [Orcid](https://orcid.org/0000-0001-5067-8475) - [Lattes](http://lattes.cnpq.br/6853705640900524)
+- [Site pessoal: ericbrasil.com.br](https://ericbrasil.com.br)
+
+---
+
+## Contatos {.center}
+
+- Curso de Licenciatura em História (IHL-UNILAB): [historia.ba@unilab.edu.br](mailto:historia.ba@unilab.edu.br)
+- Laboratório de Humanidades Digitais da UFBA: [labhdufba.com.br](https://labdufba.com.br)
+- [Mestrado Interdisciplinar em Humanidades Digitais - PPGIHD/UFRRJ](https://www.dcc.ufrrj.br/ppgihd/)
+- [Programming Historian em Português](https://programminghistorian.org/pt)
+
+---
+
+## Muito obrigado! {.center}
